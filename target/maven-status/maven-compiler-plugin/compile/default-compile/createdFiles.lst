@@ -1,0 +1,7 @@
+com\quickstart\learning\Circle.class
+com\quickstart\learning\Rectangle.class
+com\quickstart\learning\ShapeFinder.class
+com\quickstart\learning\Shape.class
+com\quickstart\rest\EmployeeDetails.class
+com\quickstart\learning\ApplicationStarter.class
+com\quickstart\rest\EmployeeDetailsJson.class
